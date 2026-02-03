@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using MiBackend.Models;
 
 namespace MiBackend.Data
 {
